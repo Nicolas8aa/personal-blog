@@ -14,6 +14,28 @@ decisions that compound into real reliability.
 - API design, data modeling, and integration work
 - Developer experience, tooling, and pragmatic architecture
 
+## Experience
+
+**SKYRICHCLUB — Technical Leader (Jul 2025 – Present, Remote Australia)**  
+Shipping features and improving resilience and security across the rewards
+ecosystem, including CI/CD pipelines, automated testing, OAuth hardening, and
+payment provider integrations.
+
+**Risk Analytics Consulting Group — Lead Software Engineer, Fullstack (Sep 2023 – Present)**  
+Led backend architecture and full lifecycle development of a financial risk
+analytics platform (IFRS/NIIF) for Latin American banks. Designed modular
+NestJS/Prisma services and concurrent Excel ingestion; implemented secure
+Active Directory auth and standardized CI/CD and deployments.
+
+**Transformit SAS — Fullstack Architect Lead (Mar 2024 – Present)**  
+Designed and deployed multitenant SaaS platforms for restaurant ordering with
+Supabase, Redis, BullMQ, and NestJS. Automated tenant provisioning, CI/CD, and
+NGINX/DNS/SSL routing.
+
+**Ableker — Lead Software Engineer, Fullstack (Sep 2021 – Sep 2023)**  
+Built order management, payment flows, and a redesigned e-commerce/control
+panel experience using Node.js, React, MongoDB, and AWS.
+
 ## Selected Projects
 
 - **[Next.js + Prisma + Auth.js + Zod + shadcn/ui starter](https://github.com/Nicolas8aa/nextjs-shadcn-next-auth)** —
@@ -35,7 +57,21 @@ engineering and shipping software.
 
 ## Contact
 
-Email me at `jobs@nicolascuellar.com`.
+Email me at `webdev.nicolas.cuellar@gmail.com`.
+
+## Education
+
+**B.S. Electronic Engineering — Surcolombiana University (2020 – 2026)**
+
+## Certifications
+
+- Advanced React (Meta/Coursera)
+- Introduction to Front-End Development (Meta/Coursera)
+- Programming with JavaScript (Meta/Coursera)
+- Version Control (Meta/Coursera)
+- Introduction to Back-End Development (Meta/Coursera)
+- Node.js: Zero to Expert
+- AWS Cloud Technical Essentials
 
 ## Credits
 
