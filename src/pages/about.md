@@ -3,35 +3,41 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+I&apos;m Nicolas Cuellar Ochoa, a professional software developer and
+full-stack JavaScript developer based in Colombia. I enjoy building end-to-end
+web products, tightening feedback loops, and writing about the small technical
+decisions that compound into real reliability.
 
-![Astro Paper](public/astropaper-og.jpg)
+## What I Do
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+- Full-stack web development with React, Next.js, and Node.js
+- API design, data modeling, and integration work
+- Developer experience, tooling, and pragmatic architecture
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+## Selected Projects
 
-## Features
+- **[Next.js + Prisma + Auth.js + Zod + shadcn/ui starter](https://github.com/Nicolas8aa/nextjs-shadcn-next-auth)** —
+  a full-stack template with authentication, type-safe validation, and server
+  actions.
+- **[NextJS + Redux Toolkit + MUI starter](https://github.com/Nicolas8aa/mui-rtk-template)** —
+  a Next.js starter template using Redux Toolkit and Material UI.
+- **[Portfolio (React)](https://github.com/Nicolas8aa/portfolio-react)** — a
+  portfolio app built as part of an advanced React course, showcasing Context
+  API, custom hooks, and testing.
+- **[Vendor manager challenge](https://github.com/Nicolas8aa/vendor-manager-challenge)** —
+  a Node.js/Express REST API challenge using SQLite and Sequelize with a Next.js
+  frontend.
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+## Currently
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+Based in Colombia. This blog is where I share practical notes on full-stack
+engineering and shipping software.
 
-and so much more.
+## Contact
 
-## Show your support
+Email me at `jobs@nicolascuellar.com`.
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
+## Credits
 
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+This site is built on the AstroPaper theme by
+[Sat Naing](https://github.com/satnaing/astro-paper).
