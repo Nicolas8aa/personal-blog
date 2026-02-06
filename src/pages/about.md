@@ -21,11 +21,13 @@ Shipping features and improving resilience and security across the rewards
 ecosystem, including CI/CD pipelines, automated testing, OAuth hardening, and
 payment provider integrations.
 
-**Risk Analytics Consulting Group — Lead Software Engineer, Fullstack (Sep 2023 – Present)**  
+**Risk Analytics Consulting Group — Lead Software Engineer, Fullstack (Sep 2023 – Jul 2025)**  
 Led backend architecture and full lifecycle development of a financial risk
 analytics platform (IFRS/NIIF) for Latin American banks. Designed modular
 NestJS/Prisma services and concurrent Excel ingestion; implemented secure
 Active Directory auth and standardized CI/CD and deployments.
+Since Aug 2025, I contribute sporadically on a contract basis for specific
+feature work.
 
 **Transformit SAS — Fullstack Architect Lead (Mar 2024 – Present)**  
 Designed and deployed multitenant SaaS platforms for restaurant ordering with
