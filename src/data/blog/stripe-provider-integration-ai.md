@@ -1,7 +1,7 @@
 ---
 title: "How We Switched to Stripe in Under 2 Hours After Our Provider Closed Our Account"
 description: "An emergency payment migration story: provider account closure, fast Stripe rollout, and an AI + MCP workflow that kept checkout alive."
-pubDatetime: 2026-02-18T15:00:00-05:00
+pubDatetime: 2026-02-18T12:30:00-05:00
 tags:
   - stripe
   - payments
